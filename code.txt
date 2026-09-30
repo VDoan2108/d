@@ -1,1 +1,5 @@
-hello\nXin chao 1
+
+hello
+Xin chao 1
+Xin chao 2
+
